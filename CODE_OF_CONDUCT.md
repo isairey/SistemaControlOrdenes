@@ -78,7 +78,7 @@ Ejemplos:
 
 Si experimentas o presencias comportamientos inadecuados, puedes reportarlo a:
 
-📧 **silva018-mg@yahoo.com.br**
+📧 **isaireyes2003@gmail.com**
 
 Todas las denuncias serán:
 
