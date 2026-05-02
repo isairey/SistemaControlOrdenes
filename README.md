@@ -139,7 +139,7 @@ php index.php tools
 
 
 ## 👨‍💻 Autor
-<img src="https://avatars.githubusercontent.com/RamonSilva20?s=115"><br><sub>Ramon Silva</sub>
+<img src="https://avatars.githubusercontent.com/isairey?s=115"><br><sub>Isai Reyes</sub>
 
 ---
 
