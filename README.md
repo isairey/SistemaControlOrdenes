@@ -31,13 +31,7 @@ Cuenta con una interfaz moderna, escalable y fácil de usar.
 
 
 
-## 🏢 Mantenimiento
 
-Proyecto desarrollado y mantenido por:
-
-👉 https://mountbit.com.br  
-
----
 
 ## ⚙️ Requisitos
 
@@ -51,7 +45,8 @@ Proyecto desarrollado y mantenido por:
 
 1. Clonar repositorio:
 ```bash
-git clone https://github.com/RamonSilva20/mapos.git
+git clone https://github.com/isairey/SistemaControlOrdenes
+.git
 ```
 Copiar a tu servidor (XAMPP / Apache)
 Instalar dependencias:
