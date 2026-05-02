@@ -29,24 +29,7 @@ Cuenta con una interfaz moderna, escalable y fácil de usar.
 
 ---
 
-## ❤️ Apoya el proyecto
 
-Este proyecto es **open source** y se mantiene gracias al esfuerzo de la comunidad.
-
-👉 Donar: https://donate.mapos.com.br  
-
----
-
-## 💬 Comunidad
-
-Únete al grupo oficial:
-
-👉 https://chat.whatsapp.com/GVSg8tPQzXy0grfYpRfQps  
-
-👉 Feedback y sugerencias:  
-https://github.com/RamonSilva20/mapos/discussions  
-
----
 
 ## 🏢 Mantenimiento
 
@@ -69,18 +52,27 @@ Proyecto desarrollado y mantenido por:
 1. Clonar repositorio:
 ```bash
 git clone https://github.com/RamonSilva20/mapos.git
+```
 Copiar a tu servidor (XAMPP / Apache)
 Instalar dependencias:
+```
 composer install --no-dev
+```
 Abrir en navegador:
+```
 http://localhost/mapos
+```
 Completar asistente de instalación
-🐳 Instalación con Docker
+
+---
+
+## 🐳 Instalación con Docker
+```
 cd docker
 docker-compose up --force-recreate
-
+```
 Acceder:
-
+```
 App → http://localhost:8000
 PhpMyAdmin → http://localhost:8080
 Configuración:
@@ -88,41 +80,69 @@ Host: mysql
 Usuario: mapos
 Contraseña: mapos
 Base de datos: mapos
-⚡ Instalación automática
-Windows
+```
+---
+
+## ⚡ Instalación automática
+
+```Windows
 PowerShell -command "& { iwr https://raw.githubusercontent.com/RamonSilva20/mapos/master/install.bat -OutFile MapOS_Install.bat }; .\MapOS_Install.bat"
 Linux
 curl -o MapOS_Install.sh -L https://raw.githubusercontent.com/RamonSilva20/mapos/master/install.sh && chmod +x MapOS_Install.sh && ./MapOS_Install.sh
-🔄 Actualización
-Hacer backup del sistema
-Reemplazar archivos
-Ejecutar:
-composer install --no-dev
-Actualizar base de datos desde el sistema
-🧠 Funcionalidades
-Gestión de clientes
-Control de órdenes
-Facturación
-Reportes
-Sistema de usuarios
-Envío de correos
-Backup integrado
-🧪 Comandos útiles
-php index.php tools
-🧱 Tecnologías
-PHP (CodeIgniter)
-MySQL
-Bootstrap
-jQuery
-🤝 Contribuir
-Fork del repositorio
-Crear rama
-Commit
-Pull Request
-⭐ Estadísticas
+```
+---
 
-👨‍💻 Autor
+## 🔄 Actualización
+
+- Hacer backup del sistema
+- Reemplazar archivos
+- Ejecutar:
+- composer install --no-dev
+- Actualizar base de datos desde el sistema
+
+---
+
+## 🧠 Funcionalidades
+
+- Gestión de clientes
+- Control de órdenes
+- Facturación
+- Reportes
+- Sistema de usuarios
+- Envío de correos
+- Backup integrado
+
+---
+
+## 🧪 Comandos útiles
+```
+php index.php tools
+```
+### 🧱 Tecnologías
+
+- PHP (CodeIgniter)
+- MySQL
+- Bootstrap
+- jQuery
+
+---
+
+## 🤝 Contribuir
+
+- Fork del repositorio
+- Crear rama
+- Commit
+- Pull Request
+- ⭐ Estadísticas
+
+---
+
+
+## 👨‍💻 Autor
 <img src="https://avatars.githubusercontent.com/RamonSilva20?s=115"><br><sub>Ramon Silva</sub>
-📄 Licencia
+
+---
+
+## 📄 Licencia
 
 Apache License
