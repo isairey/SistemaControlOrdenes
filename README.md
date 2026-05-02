@@ -134,7 +134,7 @@ php index.php tools
 
 
 ## 👨‍💻 Autor
-<img src="https://avatars.githubusercontent.com/isairey?s=115"><br><sub>Isai Reyes</sub>
+<img src="https://avatars.githubusercontent.com/isairey?s=115"><br><sub>**Isai Reyes**</sub>
 
 ---
 
